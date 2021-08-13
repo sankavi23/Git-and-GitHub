@@ -3,7 +3,7 @@ This page gives a brief introduction about _Git and GitHub_ for beginners.
 
 ## **What is Git?**
 
-![Git](/images/8ogqpfkvqqpyfbs3w6p7.png)
+![Git](Git-and-GitHub/Images/8ogqpfkvqqpyfbs3w6p7.png)
 
 **Git** is a [Version Control System](https://en.wikipedia.org/wiki/Version_control) for tracking changes to projects, usually for co-ordinating work among programmers collabrativelydeveloping source code during software development.
 
@@ -36,7 +36,7 @@ Git is needed to ensure that there are no code conflicts between the developers 
 
 ### **Some platForms to host git repository**
 
-![platforms](/images/Screenshot (620).png)
+![platforms](Git-and-GitHub/Images/Screenshot (620).png)
   + GitHub
   + BitBucket
   + GitLab
