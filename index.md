@@ -29,7 +29,6 @@ Git is needed to ensure that there are no code conflicts between the developers 
 + **_git init [repository name]_** - create a new repository.
 + **_git clone [url]_**            - obtain a repository from an existing URL.
 + **_git add [file]_**             - adds a file to the staging area.
-+ **_git add * _**                 -  adds one or more to the staging area.
 + **_git commit_**                 - Record changes to the repository 
 + **_git diff_**                   - shows the file differences which are not yet staged.
 
