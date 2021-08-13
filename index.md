@@ -34,6 +34,12 @@ Git is needed to ensure that there are no code conflicts between the developers 
 
     [Get to know more git commands](https://git-scm.com/docs/git)
 
+### **Some Git platForms**
+
+![platforms](Screenshot (620).png)
+  + GitHub
+  + BitBucket
+  + GitLab
 
 
 
