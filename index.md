@@ -32,7 +32,7 @@ Git is needed to ensure that there are no code conflicts between the developers 
   + **_git commit_**                 - Record changes to the repository 
   + **_git diff_**                   - shows the file differences which are not yet staged.
 
-[Get to know more git commands](https://git-scm.com/docs/git)
+  [Get to know more git commands](https://git-scm.com/docs/git)
 
 
 
