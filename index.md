@@ -36,7 +36,7 @@ Git is needed to ensure that there are no code conflicts between the developers 
 
 ### **Some platForms to host git repository**
 
-![platforms](/Git-and-GitHub/Images/Screenshot (620).png)
+![platforms](https://github.com/sankavi23/Git-and-GitHub/blob/gh-pages/Images/Screenshot%20(620).png)
   + GitHub
   + BitBucket
   + GitLab
