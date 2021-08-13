@@ -51,11 +51,16 @@ Git is needed to ensure that there are no code conflicts between the developers 
 GitHub’s interface is user-friendly enough so even novice coders can take advantage of Git.It’s an intricate platform that fosters collaboration and communication between developers. GitHub has a number of useful features that enable development teams to work together on the same project and easily create new versions of software without disrupting the current versions, but it doesn’t stop there.
 
 
-### **Create your gitHub account**
+### **Create your GitHub account**
 
 ![account](https://github.com/sankavi23/Git-and-GitHub/blob/gh-pages/Images/what-is-github-0.png)
 
 [**Create your GitHub account here**](https://github.com/)
+
+
+## **Difference between Git and GitHub**
+
+![gitvsgithub](https://github.com/sankavi23/Git-and-GitHub/blob/gh-pages/Images/Git-Vs-GitHub.jpg)
 
 
 
