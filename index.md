@@ -22,6 +22,6 @@ Git is needed to ensure that there are no code conflicts between the developers 
 ### **Let started on using Git now!**
 
 * ### **Install Git**
-  [Click here to download Git.](https://git-scm.com/downloads)
-  [Follow the instructions here to install!](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+  - [Click here to download Git.](https://git-scm.com/downloads)
+  - [Follow the instructions here to install!](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
