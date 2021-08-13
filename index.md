@@ -26,11 +26,11 @@ Git is needed to ensure that there are no code conflicts between the developers 
   - [Follow the instructions here to install!](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * ### **Basic Git commands to beginners**
 
-+ **_git init [repository name]_** - create a new repository.
-+ **_git clone [url]_**            - obtain a repository from an existing URL.
-+ **_git add [file]_**             - adds a file to the staging area.
-+ **_git commit_**                 - Record changes to the repository 
-+ **_git diff_**                   - shows the file differences which are not yet staged.
+  + **_git init [repository name]_** - create a new repository.
+  + **_git clone [url]_**            - obtain a repository from an existing URL.
+  + **_git add [file]_**             - adds a file to the staging area.
+  + **_git commit_**                 - Record changes to the repository 
+  + **_git diff_**                   - shows the file differences which are not yet staged.
 
 [Get to know more git commands](https://git-scm.com/docs/git)
 
