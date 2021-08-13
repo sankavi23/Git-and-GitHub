@@ -19,9 +19,25 @@ Git is needed to ensure that there are no code conflicts between the developers 
 + It is free and open source version control system.
 
 
-### **Let started on using Git now!**
+## **Let started on using Git now!**
 
 * ### **Install Git**
   - [Click here to download Git.](https://git-scm.com/downloads)
   - [Follow the instructions here to install!](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+## **Basic Git commands to beginners**
+
++ git init [repository name] - create a new repository.
++ git clone [url]            - obtain a repository from an existing URL.
++ git add [file]             - adds a file to the staging area.
++  git add *                 -  adds one or more to the staging area.
++  git commit -m “[ Type in the commit message]” - records or snapshots the file permanently in the version history.
++  git commit -a             - commits any files you’ve added with the git add command and also commits any files you’ve changed since then.
++  git diff                  - shows the file differences which are not yet staged.
+
+[Get to know more git commands](https://git-scm.com/docs/git)
+
+
+
+
+ 
 
