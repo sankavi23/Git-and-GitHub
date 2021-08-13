@@ -3,7 +3,7 @@ This page gives a brief introduction about _Git and GitHub_ for beginners.
 
 ## **What is Git?**
 
-![Git](/Git-and-GitHub/Images/8ogqpfkvqqpyfbs3w6p7.png)
+![Git](https://github.com/sankavi23/Git-and-GitHub/blob/gh-pages/Images/8ogqpfkvqqpyfbs3w6p7.png)
 
 **Git** is a [Version Control System](https://en.wikipedia.org/wiki/Version_control) for tracking changes to projects, usually for co-ordinating work among programmers collabrativelydeveloping source code during software development.
 
@@ -40,6 +40,20 @@ Git is needed to ensure that there are no code conflicts between the developers 
   + GitHub
   + BitBucket
   + GitLab
+  + SourceFourge
+
+
+## **What is GitHub?**
+
+![GitHub](https://github.com/sankavi23/Git-and-GitHub/blob/gh-pages/Images/1-github-explained.png)
+
+**GitHub** is a Git repository hosting service. 
+GitHub’s interface is user-friendly enough so even novice coders can take advantage of Git.It’s an intricate platform that fosters collaboration and communication between developers. GitHub has a number of useful features that enable development teams to work together on the same project and easily create new versions of software without disrupting the current versions, but it doesn’t stop there.
+
+
+
+![account](https://github.com/sankavi23/Git-and-GitHub/blob/gh-pages/Images/what-is-github-0.png)
+[Create your GitHub account here.](https://github.com/)
 
 
 
