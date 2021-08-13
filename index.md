@@ -12,7 +12,7 @@ Git is needed to ensure that there are no code conflicts between the developers 
 
 ## **Features of Git**
 
-+ Distributed System
++ Distributed System.
 + Compatible with all the Operating Systems.
 + Git allows its users to work on a line that runs parallel to the main project files
 + Users are allowed from all over the world to perform operations on a project remotely.
