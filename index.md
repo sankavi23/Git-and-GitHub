@@ -62,10 +62,10 @@ GitHub’s interface is user-friendly enough so even novice coders can take adva
 
 ![gitvsgithub](https://github.com/sankavi23/Git-and-GitHub/blob/gh-pages/Images/Git-Vs-GitHub.jpg)
 
-| Column 1       | Column 2     | Column 3     |
-| :------------- | :----------: | -----------: |
-|  Cell Contents | More Stuff   | And Again    |
-| You Can Also   | Put Pipes In | Like this \| |
+|     **Git**    |  **GitHub**  |
+| :------------- | :----------: | 
+|  Cell Contents | More Stuff   | 
+| You Can Also   | Put Pipes In |
 
 
 
