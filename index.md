@@ -66,8 +66,7 @@ It also makes collaboration easier, allowing changes by multiple people to all b
 
 |                     **Git**                                |  **GitHub**  |
 | :----------------------------------------------------------|:------------:| 
-|+ Git is a version control system that lets you manage and  |              |
-|  keep track of your source code history.                   | More Stuff   | 
+|Git is a version control system that lets you manage and keep track of your source code his|jnjhvgvcgff g More Stuff   | 
 | You Can Also                                               | Put Pipes In |
 
 
