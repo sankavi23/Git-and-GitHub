@@ -1,15 +1,20 @@
 ## **Introduction**
 This page gives a brief introduction about _Git and GitHub_ for beginners.I hope, beginners can get an idea about Git and GitHub.
 
+
 ## **What is Git?**
 
 ![Git](8ogqpfkvqqpyfbs3w6p7.png)
 
 **Git** is a [Version Control System](https://en.wikipedia.org/wiki/Version_control) for tracking changes to projects, usually for co-ordinating work among programmers collabratively developing source code during software development.
 
+
+
 ## **Why Git is needed?**
 Git is needed to ensure that there are no code conflicts between the developers when multiple developers are working on a same project parallel.
 It also makes collaboration easier, allowing changes by multiple people to all be merged into one source.
+
+
 
 ## **Features of Git**
 
@@ -18,6 +23,7 @@ It also makes collaboration easier, allowing changes by multiple people to all b
 + Git allows its users to work on a line that runs parallel to the main project files.
 + Users are allowed from all over the world to perform operations on a project remotely.
 + It is free and open source version control system.
+
 
 
 ## **Let started on using Git now!**
@@ -35,6 +41,8 @@ It also makes collaboration easier, allowing changes by multiple people to all b
 
     [Get to know more git commands](https://git-scm.com/docs/git)
 
+
+
 ### **Some platForms to host git repository**
 
 ![platforms](Images/Screenshot%20(620).png)
@@ -44,6 +52,8 @@ It also makes collaboration easier, allowing changes by multiple people to all b
   + SourceFourge
 
 
+
+
 ## **What is GitHub?**
 
 ![GitHub](1-github-explained.png)
@@ -51,6 +61,8 @@ It also makes collaboration easier, allowing changes by multiple people to all b
 **GitHub** is a _Git repository hosting service_. 
  It is a provider of Internet hosting for software development and version control using Git.
  While Git is a command line tool, GitHub provides a Web-based graphical interface.
+ 
+ 
 
 
 ### **Create your GitHub account**
@@ -58,6 +70,9 @@ It also makes collaboration easier, allowing changes by multiple people to all b
 ![account](Images/what-is-github-0.png)
 
 [**Create your GitHub account here**](https://github.com/)
+
+
+
 
 
 ## **Difference between Git and GitHub**
@@ -71,6 +86,8 @@ It also makes collaboration easier, allowing changes by multiple people to all b
 |Installed locally| Hosted in cloud|
 |No user management features| Built-in user management features|
 |Primarily a command line tool| Administered through web|
+
+
 
 
 ## **Open source contribution** 
