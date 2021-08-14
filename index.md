@@ -37,7 +37,7 @@ It also makes collaboration easier, allowing changes by multiple people to all b
 
 ### **Some platForms to host git repository**
 
-![platforms](https://github.com/sankavi23/Git-and-GitHub/blob/gh-pages/Images/Screenshot%20(620).png)
+![platforms](Screenshot%20(620).png)
   + GitHub
   + BitBucket
   + GitLab
@@ -62,7 +62,7 @@ It also makes collaboration easier, allowing changes by multiple people to all b
 
 ## **Difference between Git and GitHub**
 
-![gitvsgithub](https://github.com/sankavi23/Git-and-GitHub/blob/gh-pages/Images/Git-Vs-GitHub.jpg)
+![gitvsgithub](Git-Vs-GitHub.jpg)
 
 |**Git**|**GitHub**|
 | :----------------------------------------------------------|:------------:| 
