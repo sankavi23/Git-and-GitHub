@@ -1,20 +1,22 @@
 ## **Introduction**
-This page gives a brief introduction about _Git and GitHub_ for beginners.I hope, beginners can get an idea about Git and GitHub.
+This page gives a brief introduction about _Git and GitHub_ for beginners.I hope, beginners can get an idea about Git and GitHub.\
+\
 
-\
-\
-\
+
+
 ## **What is Git?**
 
 ![Git](8ogqpfkvqqpyfbs3w6p7.png)
 
-**Git** is a [Version Control System](https://en.wikipedia.org/wiki/Version_control) for tracking changes to projects, usually for co-ordinating work among programmers collabratively developing source code during software development.
+**Git** is a [Version Control System](https://en.wikipedia.org/wiki/Version_control) for tracking changes to projects, usually for co-ordinating work among programmers collabratively developing source code during software development.\
+\
 
 
 
 ## **Why Git is needed?**
 Git is needed to ensure that there are no code conflicts between the developers when multiple developers are working on a same project parallel.
-It also makes collaboration easier, allowing changes by multiple people to all be merged into one source.
+It also makes collaboration easier, allowing changes by multiple people to all be merged into one source.\
+\
 
 
 
