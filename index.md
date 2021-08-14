@@ -75,6 +75,7 @@ It also makes collaboration easier, allowing changes by multiple people to all b
 
 ## **Open source contribution** 
 
+ Open source refers to source code that is made available to the public to view, use, modify, and distribute under a permissive license.
  If you are interested to improve the tools you use every day, you can submit contributions to their open source projects.
  In addition, contributing to open source allows you to improve your coding skills.
 
