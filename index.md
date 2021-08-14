@@ -55,7 +55,7 @@ It also makes collaboration easier, allowing changes by multiple people to all b
 
 ### **Create your GitHub account**
 
-![account](https://github.com/sankavi23/Git-and-GitHub/blob/gh-pages/Images/what-is-github-0.png)
+![account](Images/what-is-github-0.png)
 
 [**Create your GitHub account here**](https://github.com/)
 
