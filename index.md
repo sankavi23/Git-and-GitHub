@@ -5,7 +5,7 @@ This page gives a brief introduction about _Git and GitHub_ for beginners.I hope
 
 ![Git](https://github.com/sankavi23/Git-and-GitHub/blob/gh-pages/Images/8ogqpfkvqqpyfbs3w6p7.png)
 
-**Git** is a [Version Control System](https://en.wikipedia.org/wiki/Version_control) for tracking changes to projects, usually for co-ordinating work among programmers collabrativelydeveloping source code during software development.
+**Git** is a [Version Control System](https://en.wikipedia.org/wiki/Version_control) for tracking changes to projects, usually for co-ordinating work among programmers collabratively developing source code during software development.
 
 ## **Why Git is needed?**
 Git is needed to ensure that there are no code conflicts between the developers when multiple developers are working on a same project parallel.
@@ -15,7 +15,7 @@ It also makes collaboration easier, allowing changes by multiple people to all b
 
 + Distributed System.
 + Compatible with all the Operating Systems.
-+ Git allows its users to work on a line that runs parallel to the main project files
++ Git allows its users to work on a line that runs parallel to the main project files.
 + Users are allowed from all over the world to perform operations on a project remotely.
 + It is free and open source version control system.
 
@@ -25,7 +25,7 @@ It also makes collaboration easier, allowing changes by multiple people to all b
 * ### **Install Git**
   - [Click here to download Git.](https://git-scm.com/downloads)
   - [Follow the instructions here to install!](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-* ### **Basic Git commands to beginners**
+* ### **Basic Git commands for beginners**
 
   + **_git init [repository name]_** - create a new repository.
   + **_git clone [url]_**            - obtain a repository from an existing URL.
@@ -71,6 +71,9 @@ It also makes collaboration easier, allowing changes by multiple people to all b
 |Installed locally| Hosted in cloud|
 |No user management features| Built-in user management features|
 |Primarily a command line tool| Administered through web|
+
+
+
 
 
 #### **Keep Learning!**
