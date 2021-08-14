@@ -62,7 +62,7 @@ It also makes collaboration easier, allowing changes by multiple people to all b
 
 ## **Difference between Git and GitHub**
 
-![gitvsgithub](Git-Vs-GitHub.jpg)
+![gitvsgithub](Images/Git-Vs-GitHub.jpg)
 
 |**Git**|**GitHub**|
 | :----------------------------------------------------------|:------------:| 
