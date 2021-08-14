@@ -3,7 +3,7 @@ This page gives a brief introduction about _Git and GitHub_ for beginners.
 
 ## **What is Git?**
 
-![Git](https://github.com/sankavi23/Git-and-GitHub/blob/gh-pages/Images/8ogqpfkvqqpyfbs3w6p7.png)
+![Git](8ogqpfkvqqpyfbs3w6p7.png)
 
 **Git** is a [Version Control System](https://en.wikipedia.org/wiki/Version_control) for tracking changes to projects, usually for co-ordinating work among programmers collabrativelydeveloping source code during software development.
 
