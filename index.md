@@ -1,5 +1,5 @@
 ## **Introduction**
-This page gives a brief introduction about _Git and GitHub_ for beginners.I hope, beginners can get an idea about Git and GitHub.\
+This page gives a brief introduction about _Git and GitHub_ for beginners.I hope, beginners can get an idea about Git and GitHub.
 
 
 
@@ -7,15 +7,15 @@ This page gives a brief introduction about _Git and GitHub_ for beginners.I hope
 
 ![Git](8ogqpfkvqqpyfbs3w6p7.png)
 
-**Git** is a [Version Control System](https://en.wikipedia.org/wiki/Version_control) for tracking changes to projects, usually for co-ordinating work among programmers collabratively developing source code during software development.\
+**Git** is a [Version Control System](https://en.wikipedia.org/wiki/Version_control) for tracking changes to projects, usually for co-ordinating work among programmers collabratively developing source code during software development.
 
 
 
 
 ## **Why Git is needed?**
 Git is needed to ensure that there are no code conflicts between the developers when multiple developers are working on a same project parallel.
-It also makes collaboration easier, allowing changes by multiple people to all be merged into one source.\
-\
+It also makes collaboration easier, allowing changes by multiple people to all be merged into one source.
+
 
 
 
@@ -25,7 +25,7 @@ It also makes collaboration easier, allowing changes by multiple people to all b
 + Compatible with all the Operating Systems.
 + Git allows its users to work on a line that runs parallel to the main project files.
 + Users are allowed from all over the world to perform operations on a project remotely.
-+ It is free and open source version control system.\
++ It is free and open source version control system.
 
 
 
@@ -42,7 +42,7 @@ It also makes collaboration easier, allowing changes by multiple people to all b
   + **_git commit_**                 - Record changes to the repository 
   + **_git diff_**                   - shows the file differences which are not yet staged.
 
-    [Get to know more git commands](https://git-scm.com/docs/git)\
+    [Get to know more git commands](https://git-scm.com/docs/git)
 
 
 
@@ -52,7 +52,7 @@ It also makes collaboration easier, allowing changes by multiple people to all b
   + GitHub
   + BitBucket
   + GitLab
-  + SourceFourge\
+  + SourceFourge
 
 
 
@@ -63,7 +63,7 @@ It also makes collaboration easier, allowing changes by multiple people to all b
 
 **GitHub** is a _Git repository hosting service_. 
  It is a provider of Internet hosting for software development and version control using Git.
- While Git is a command line tool, GitHub provides a Web-based graphical interface.\
+ While Git is a command line tool, GitHub provides a Web-based graphical interface.
  
  
 
@@ -72,7 +72,7 @@ It also makes collaboration easier, allowing changes by multiple people to all b
 
 ![account](Images/what-is-github-0.png)
 
-[**Create your GitHub account here**](https://github.com/)\
+[**Create your GitHub account here**](https://github.com/)
 
 
 
@@ -88,7 +88,7 @@ It also makes collaboration easier, allowing changes by multiple people to all b
 |Git is focused on version control and code sharing| GitHub is focused on centralized source code hosting|
 |Installed locally| Hosted in cloud|
 |No user management features| Built-in user management features|
-|Primarily a command line tool| Administered through web|\
+|Primarily a command line tool| Administered through web|
 
 
 
