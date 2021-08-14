@@ -64,11 +64,11 @@ It also makes collaboration easier, allowing changes by multiple people to all b
 
 ![gitvsgithub](https://github.com/sankavi23/Git-and-GitHub/blob/gh-pages/Images/Git-Vs-GitHub.jpg)
 
-|                     **Git**                                |  **GitHub**  |
+|**Git**|**GitHub**|
 | :----------------------------------------------------------|:------------:| 
 |Git is a version control system that lets you manage and keep track of your source code history|GitHub is a cloud-based hosting service that lets you manage Git repositories | 
 |Git is focused on version control and code sharing|GitHub is focused on centralized source code hosting|
-|Installd locally.                                             |Hosted in cloud|
+|Installed locally|Hosted in cloud|
 |No user management features|Built-in user management features|
 |Primarily a command line tool|Administered through web|
 
