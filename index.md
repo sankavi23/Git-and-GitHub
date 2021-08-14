@@ -8,7 +8,8 @@ This page gives a brief introduction about _Git and GitHub_ for beginners. I hop
 **Git** is a [Version Control System](https://en.wikipedia.org/wiki/Version_control) for tracking changes to projects, usually for co-ordinating work among programmers collabrativelydeveloping source code during software development.
 
 ## **Why Git is needed?**
-Git is needed to ensure that there are no code conflicts between the developers when multiple developers are working on a same project parallel.Git also makes collaboration easier, allowing changes by multiple people to all be merged into one source.
+Git is needed to ensure that there are no code conflicts between the developers when multiple developers are working on a same project parallel.
+It also makes collaboration easier, allowing changes by multiple people to all be merged into one source.
 
 ## **Features of Git**
 
@@ -47,8 +48,9 @@ Git is needed to ensure that there are no code conflicts between the developers 
 
 ![GitHub](https://github.com/sankavi23/Git-and-GitHub/blob/gh-pages/Images/1-github-explained.png)
 
-**GitHub** is a Git repository hosting service. 
-GitHub’s interface is user-friendly enough so even novice coders can take advantage of Git.It’s an intricate platform that fosters collaboration and communication between developers. GitHub has a number of useful features that enable development teams to work together on the same project and easily create new versions of software without disrupting the current versions, but it doesn’t stop there.
+**GitHub** is a _Git repository hosting service_. 
+ It is a provider of Internet hosting for software development and version control using Git.
+ While Git is a command line tool, GitHub provides a Web-based graphical interface.
 
 
 ### **Create your GitHub account**
@@ -62,10 +64,11 @@ GitHub’s interface is user-friendly enough so even novice coders can take adva
 
 ![gitvsgithub](https://github.com/sankavi23/Git-and-GitHub/blob/gh-pages/Images/Git-Vs-GitHub.jpg)
 
-|     **Git**    |  **GitHub**  |
-| :------------- | :----------: | 
-|  Cell Contents | More Stuff   | 
-| You Can Also   | Put Pipes In |
+|                     **Git**                                |  **GitHub**  |
+| :----------------------------------------------------------|:------------:| 
+|+ Git is a version control system that lets you manage and  |              |
+|  keep track of your source code history.                   | More Stuff   | 
+| You Can Also                                               | Put Pipes In |
 
 
 
