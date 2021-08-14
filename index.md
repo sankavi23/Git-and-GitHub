@@ -46,7 +46,7 @@ It also makes collaboration easier, allowing changes by multiple people to all b
 
 ## **What is GitHub?**
 
-![GitHub](https://github.com/sankavi23/Git-and-GitHub/blob/gh-pages/Images/1-github-explained.png)
+![GitHub](1-github-explained.png)
 
 **GitHub** is a _Git repository hosting service_. 
  It is a provider of Internet hosting for software development and version control using Git.
