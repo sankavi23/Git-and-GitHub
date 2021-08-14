@@ -1,9 +1,9 @@
 ## **Introduction**
-This page gives a brief introduction about _Git and GitHub_ for beginners.
+This page gives a brief introduction about _Git and GitHub_ for beginners. I hope
 
 ## **What is Git?**
 
-![Git](8ogqpfkvqqpyfbs3w6p7.png)
+![Git](https://github.com/sankavi23/Git-and-GitHub/blob/gh-pages/Images/8ogqpfkvqqpyfbs3w6p7.png)
 
 **Git** is a [Version Control System](https://en.wikipedia.org/wiki/Version_control) for tracking changes to projects, usually for co-ordinating work among programmers collabrativelydeveloping source code during software development.
 
@@ -61,6 +61,11 @@ GitHub’s interface is user-friendly enough so even novice coders can take adva
 ## **Difference between Git and GitHub**
 
 ![gitvsgithub](https://github.com/sankavi23/Git-and-GitHub/blob/gh-pages/Images/Git-Vs-GitHub.jpg)
+
+| Column 1       | Column 2     | Column 3     |
+| :------------- | :----------: | -----------: |
+|  Cell Contents | More Stuff   | And Again    |
+| You Can Also   | Put Pipes In | Like this \| |
 
 
 
