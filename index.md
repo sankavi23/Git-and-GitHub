@@ -1,7 +1,9 @@
 ## **Introduction**
 This page gives a brief introduction about _Git and GitHub_ for beginners.I hope, beginners can get an idea about Git and GitHub.
 
-
+\
+\
+\
 ## **What is Git?**
 
 ![Git](8ogqpfkvqqpyfbs3w6p7.png)
