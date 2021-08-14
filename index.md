@@ -73,10 +73,16 @@ It also makes collaboration easier, allowing changes by multiple people to all b
 |Primarily a command line tool| Administered through web|
 
 
+## **Open source contribution** 
+
+ If you are interested to improve the tools you use every day, you can submit contributions to their open source projects.
+ In addition, contributing to open source allows you to improve your coding skills.
 
 
 
 #### **Keep Learning!**
+
+
 
  
 
